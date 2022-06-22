@@ -1,1 +1,1 @@
-# CalculatePayProgram
+# Calculate Pay Program
